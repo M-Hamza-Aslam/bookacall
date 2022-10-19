@@ -1,6 +1,7 @@
 # Instructions to run the program:
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+NodeJS Version: v16.16.0
 
 simply download the files and run command 'npm install', it will install all the required dependencies as all the information of depencdencies is stored in package.json file
 
