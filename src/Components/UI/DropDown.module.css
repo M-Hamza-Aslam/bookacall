@@ -1,0 +1,19 @@
+.dropdown {
+  padding: 2rem;
+  background-color: var(--SilverColor);
+  border-radius: 8px;
+  color: white;
+  margin: 16px 0px;
+}
+.dropdownheading {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  font-size: 1.2rem;
+  cursor: pointer;
+  font-weight: bold;
+}
+.dropdownheading > svg {
+  color: var(--OrangeColor) !important;
+  font-size: 2rem;
+}

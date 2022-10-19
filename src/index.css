@@ -1,0 +1,12 @@
+:root {
+  --BlackColor: #000000;
+  --WhiteColor: #ffffff;
+  --GreyColor: #1d1816;
+  --OrangeColor: #d36b00;
+  --SilverColor: #474646;
+}
+body {
+  margin: 0;
+  background-color: var(--BlackColor) !important;
+  color: var(--WhiteColor) !important;
+}
